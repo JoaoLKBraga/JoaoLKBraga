@@ -1,5 +1,3 @@
-##
-
 <div align="center">
   <a href="https://github.com/joaolkbraga">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaolkbraga&show_icons=true&theme=chartreuse-dark"/>
